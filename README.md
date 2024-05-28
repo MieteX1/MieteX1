@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I am currently a computer science student at Collegium Da Vinci from Poland
+## I am currently a computer science student at Collegium Da Vinci from Poland
 <!--
 **MieteX1/MieteX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
