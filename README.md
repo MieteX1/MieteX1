@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hi 👋, I'm Mieszko
 
 ## I am currently a computer science student at Collegium Da Vinci from Poland
+
+I like to develop myself in the areas I know and learn new things.
 <!--
 **MieteX1/MieteX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
