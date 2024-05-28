@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mieszko
+<h1 align="center"># Hi 👋, I'm Mieszko</h1>
 
-## I am currently a computer science student at Collegium Da Vinci from Poland
+<h1 align="center">## I am currently a computer science student at Collegium Da Vinci from Poland</h1>
 
 I like to develop myself in the areas I know and learn new things.
 <!--
